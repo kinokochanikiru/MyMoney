@@ -1,1 +1,2 @@
-FASTAPI
+fastapi
+uvicorn[standard]
